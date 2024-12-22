@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\Con3223-master\Con3223\bin\Debug\Con3223.exe.config
+C:\Users\PC\Downloads\Con3223-master\Con3223\bin\Debug\Con3223.exe
+C:\Users\PC\Downloads\Con3223-master\Con3223\bin\Debug\Con3223.pdb
+C:\Users\PC\Downloads\Con3223-master\Con3223\obj\Debug\cs12.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Con3223-master\Con3223\obj\Debug\cs12.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Con3223-master\Con3223\obj\Debug\Con3223.exe
+C:\Users\PC\Downloads\Con3223-master\Con3223\obj\Debug\Con3223.pdb
